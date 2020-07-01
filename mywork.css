@@ -1,0 +1,146 @@
+.logo{
+    width: 5em;
+    
+
+}
+.main{
+    background-color:#121624 ;
+width: 100%;
+position:fixed;
+z-index: 1;
+}
+.textclr{
+    color: white;
+   font-weight:500;
+   font-size: large;
+    margin:1em;
+}
+.section-1{
+    background-image: linear-gradient(180deg,#121624 , rgb(8, 48, 73));
+    width: 100%;
+    padding-top: 10em;
+}
+.img1{
+    width: 20em;
+    margin-left: 2em;
+    
+}
+.hello{
+    color: aliceblue;;
+
+}
+.introduction{
+    color: #e7c70f;
+    position: relative;
+    font-weight: 200;
+  font-size: 4em;
+}
+
+.text{
+    color: thistle;
+}
+.quote{
+    color: aliceblue;
+    margin-left: 7em;
+    margin-top: 3em;
+
+}
+.about{
+    color: #e7c70f; 
+    text-shadow: 2px 2px 4px #110202;
+
+}
+
+.section-2{
+    background: #c7aa07 ;
+    width: 100%;
+    
+   
+}
+.edu{
+    color: thistle;
+    
+    
+}
+.content{
+    color: aliceblue;
+}
+.card-img{
+    height: 11em;
+
+}
+.section-3{
+    background-image: url("img5.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+
+.skills{
+    color: aliceblue;
+    text-shadow: 2px 2px 4px #110202;
+}
+.skill-head{
+    color: #e7c70f;
+    text-shadow: 2px 2px 4px #110202;
+}
+.section-4{
+  
+    width: 100%;
+    background: white ;
+
+}
+.image-4{
+    width: 15rem;
+    height: 16rem;
+}
+.work-head{
+    color: #e7c70f;
+    text-shadow: 2px 2px 4px #110202;
+}
+.section-5{
+    background: #c7aa07 ;
+    width: 100%; 
+    background-image: url("img5.jpg");
+    background-repeat: no-repeat;
+   
+  
+}
+
+.contact{
+    color: #e7c70f;
+    text-shadow: 2px 2px 4px #110202;
+}
+.form-group{
+    color: rgb(241, 226, 226);
+}
+.form-control{
+    width: 80%;
+    border-radius: 1em;
+    height: 3em;
+    border-color: #007bff;
+
+   
+}
+.btn-primary{
+    width: 80%;
+    border-radius: 1em;
+    background-color: rgb(5, 50, 80);
+}
+.footer{
+    width: 100%;   
+    background-color:rgb(5, 50, 80);
+   
+  
+}
+.fab{
+    margin-right: 5em;
+    font-size: xx-large;
+}
+
+.p{
+    margin-top: 3em;  
+}
+body{
+    margin: 0em;
+}
