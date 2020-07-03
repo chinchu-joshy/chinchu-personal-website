@@ -1,48 +1,68 @@
+
+body{
+margin: 0rem;
+}
 .logo{
-    width: 5em;
+    width: 3rem;
     
 
 }
 .main{
     background-color:#121624 ;
-width: 100%;
-position:fixed;
-z-index: 1;
+ width: 100%;
+ position:fixed;
+ z-index: 1;
 }
 .textclr{
     color: white;
    font-weight:500;
    font-size: large;
-    margin:1em;
+    margin:1rem;
 }
 .section-1{
-    background-image: linear-gradient(180deg,#121624 , rgb(8, 48, 73));
+    background-color:#121624 ;
     width: 100%;
-    padding-top: 10em;
-}
-.img1{
-    width: 20em;
-    margin-left: 2em;
+    padding-top:7rem;
     
-}
-.hello{
-    color: aliceblue;;
+    
+    
+} 
+.start-section{
+  background-image: url("img.jpeg");
+  background-color: #cccccc;
+  height: 600px;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: luminosity;
+  
 
 }
-.introduction{
+.hello{
+    color: rgb(112, 116, 119);
+    margin-left:2rem;
+    margin-top: 10rem;
+
+}
+.name{
     color: #e7c70f;
     position: relative;
     font-weight: 200;
-  font-size: 4em;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2rem;
+    margin-top: 2rem;
 }
 
-.text{
-    color: thistle;
+.sub-text{
+    color: rgb(14, 13, 14);
+    margin-left: 2rem;
 }
 .quote{
     color: aliceblue;
-    margin-left: 7em;
-    margin-top: 3em;
+    margin-left: 7rem;
+    margin-top: 3rem;
 
 }
 .about{
@@ -52,9 +72,9 @@ z-index: 1;
 }
 
 .section-2{
-    background: #c7aa07 ;
-    width: 100%;
     
+    width: 100%;
+    background-color:#121624 ;
    
 }
 .edu{
@@ -66,12 +86,11 @@ z-index: 1;
     color: aliceblue;
 }
 .card-img{
-    height: 11em;
+    height: 11rem;
 
 }
 .section-3{
-    background-image: url("img5.jpg");
-    background-repeat: no-repeat;
+    background-color:#121624 ;
     width: 100%;
     
 }
@@ -85,14 +104,15 @@ z-index: 1;
     text-shadow: 2px 2px 4px #110202;
 }
 .section-4{
-  
+    background-color:#121624 ;
     width: 100%;
-    background: white ;
+    
 
 }
 .image-4{
     width: 15rem;
     height: 16rem;
+    
 }
 .work-head{
     color: #e7c70f;
@@ -102,7 +122,9 @@ z-index: 1;
     background: #c7aa07 ;
     width: 100%; 
     background-image: url("img5.jpg");
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
    
   
 }
@@ -144,3 +166,22 @@ z-index: 1;
 body{
     margin: 0em;
 }
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    z-index: 99;
+   
+    border: none;
+    outline: none;
+    background-color: rgb(37, 25, 25);
+    color: white;
+    cursor: pointer;
+    padding: 1rem;
+    border-radius: 1rem;
+  }
+  
+  #myBtn:hover {
+    background-color: #555;
+  }
