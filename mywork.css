@@ -1,83 +1,68 @@
 
 body{
 margin: 0rem;
+scroll-padding-top: 7rem;
 }
 .logo{
     width: 3rem;
     
 
 }
+
 .main{
-    background-color:#121624 ;
+   background-color: rgb(12, 76, 87);
  width: 100%;
  position:fixed;
- z-index: 1;
+ z-index: 100;
 }
+
 .textclr{
     color: white;
    font-weight:500;
    font-size: large;
-    margin:1rem;
+    margin-left: 2rem;
 }
+
 .section-1{
     background: rgb(0, 0, 0); 
-  background: rgba(0, 0, 0, 0.8); 
+    background: rgba(0, 0, 0, 0.8); 
     width: 100%;
     padding-top:7rem;
     
-    
-    
-
-} 
-.thoughts{
-    color: rgb(252, 245, 233);
-    margin-left: 5rem;
 }
 
 .start_section{
- 
-  height: 36rem;
-  width: 30rem;
-
- 
- 
-
-}
-
-
-.intro{
-    position: absolute;
-  bottom: 0rem;
-  background: rgb(0, 0, 0); 
-  background: rgba(0, 0, 0, 0.8); 
-  color: #f1f1f1;
-  width: 30rem;
-  height: 27rem;
-  margin-bottom: 9rem;
-  float: left;
-
+    border-radius: 1rem;
+    margin-left: 2rem;
+  height: 20rem;
+  width: 20rem;
   
 }
+
 .hello{
     color: rgb(112, 116, 119);
     margin-left:2rem;
-    margin-top: 10rem;
+    margin-top: 1rem;
 
 }
+.welcome{
+    color: rgb(178, 185, 189);
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    
+}
+
 .name{
-    color: #088177; 
-    position: relative;
+    color: rgb(178, 185, 189);
     font-weight: 200;
-    font-weight: 200;
+    font-size: large;
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 2rem;
     margin-top: 2rem;
+    font-stretch: expanded;
 }
 
-.sub-text{
-    color: rgb(243, 233, 243);
-    margin-left: 2rem;
-}
+
 .section-2{
     background: rgb(0, 0, 0); 
     background: rgba(0, 0, 0, 0.8); 
@@ -85,43 +70,29 @@ margin: 0rem;
       padding-top:7rem;
 }
 
-.card{
-    float: left;
-    margin-top: 1rem;
-    margin-left: 1rem;
-}
-.card-body{
-    padding: 0rem;
-    min-height: 5rem;
-}
-.col-md-6{
-max-width: 45%;
-}
+
 
 .about{
-    color: #088177; 
+    color: rgb(178, 185, 189);
     text-shadow: 2px 2px 4px #110202;
 
 }
 
+
 .section-3{
-    
+   
     width: 100%;
     background: rgb(0, 0, 0); 
   background: rgba(0, 0, 0, 0.8); 
 }
 .edu{
     color: thistle;
+    margin-bottom: 2rem;
     
     
 }
-.content{
-    color: aliceblue;
-}
-.card-img{
-    height: 11rem;
 
-}
+
 .section-4{
     background: rgb(0, 0, 0); 
   background: rgba(0, 0, 0, 0.8); 
@@ -134,8 +105,9 @@ max-width: 45%;
     text-shadow: 2px 2px 4px #110202;
 }
 .skill-head{
-    color: #e7c70f;
+    color: rgb(178, 185, 189);
     text-shadow: 2px 2px 4px #110202;
+    margin-bottom: 2rem;
 }
 .section-5{
     background: rgb(0, 0, 0); 
@@ -144,16 +116,28 @@ max-width: 45%;
     
 
 }
-.image-4{
-    width: 15rem;
-    height: 16rem;
-    
+.image-size{
+   
+    margin-top: 1rem;
+        vertical-align: middle;
+        width: 10rem;
+        height: 10rem;
+        margin-left: 2rem;
+        
 }
+.image-sizebig{
+    margin-top: 1rem;
+    width: 20rem;
+    height: 20rem;
+    margin-left:2rem ;
+}
+
+      
 .work-head{
-    color: #e7c70f;
+    color: rgb(178, 185, 189);
     text-shadow: 2px 2px 4px #110202;
 }
-.section-6{
+.section-5{
     background: #c7aa07 ;
     width: 100%; 
     background-image: url("img5.jpg");
