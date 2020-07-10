@@ -1,0 +1,129 @@
+.card{
+    
+        max-width: 30rem;
+        
+        margin-left: 1rem;
+        margin-top: 1rem;
+        
+        
+    
+}
+.card-body{
+    padding: 1rem;
+}
+.gallery-title{
+    word-break: break-all;
+    color: darkslategray;
+    margin-left: 7rem;
+}
+.content {
+    background-color: rgb(46, 45, 45);
+    padding: 1rem;
+    width: 100%;
+    float: left;
+    
+}
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(168, 177, 42);
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: rgb(168, 177, 42);
+    font-weight: bold;
+}
+.head{
+    color: rgb(178, 185, 189);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.vl {
+    border-left: 6px solid rgb(18, 22, 22);
+    height: 20rem;
+    margin-top: 1rem;
+    
+    
+  }
+  .edu-text{
+    color: rgb(178, 185, 189);
+    font-weight: bold;
+    margin-left: 1rem;
+    
+  }
+  .edu-mark{
+    color: rgb(184, 172, 17);
+    font-weight: bold;
+    margin-left: 3rem;
+    
+  }
+ .now{
+     color: rgb(18, 119, 126);
+ }
+.edu-current{
+    color: rgb(184, 172, 17);
+    font-weight: bold;
+    margin-left: .8rem;
+}
+.label {
+    color: white;
+   padding: .2rem;
+    
+    
+   
+  }
+  
+  .basics {background-color: #406574;} 
+  .intermediate {background-color: #255277;}
+  .good {background-color: #0a4949;}
+  .advanced {background-color: #03262c;}
+ .grading-java{
+    background-color: #0a4949;
+ }
+ .grading-python{
+    background-color: #0a4949;  
+ }
+ .grading-c{
+    background-color: #255277;;
+ }
+ .grading-html{
+    background-color: #0a4949;
+ }
+ .grading-css{
+    background-color: #0a4949;
+ }
+ .grading-javascript{
+    background-color: #406574; 
+ }
+ .item{
+     padding: 2rem;
+     margin-left: 1rem;
+margin-top: 2rem;
+ }
+ .textclr{
+margin-left: 1rem;
+margin-top: 2rem;
+ }
+ .portfolio{
+margin-bottom: 1rem;
+ }
+ .button{
+    margin-bottom: 1rem;
+    
+ }
+ .spacing-button{
+    background-color: rgb(178, 185, 189);
+    color: black;
+    font-weight: bold;
+    margin-bottom: 2rem;
+ }
+ 
+ .port-head{
+     color:rgb(178, 185, 189) ;
+     margin-bottom: 2rem;
+     font-weight: bold;
+    
+ }
+ .img-set{
+   height: auto;  
+     
+ }
+ 
