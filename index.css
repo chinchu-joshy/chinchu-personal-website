@@ -101,5 +101,12 @@ margin-top: 2rem;}
   .imghome-set{width: 95%;
     height: 500px;
   }
+  @media(max-width:400px){
+    .card {
+        max-width: 30rem;
+        margin-left: 0rem;
+        margin-top: 1rem;
+    }
+  }
   
   
