@@ -117,4 +117,16 @@ margin-bottom: 2rem;}
         height: 14rem;
         width: 14rem;
     }
+    .image-size {
+        margin-top: 1rem;
+        vertical-align: middle;
+        width: 7rem;
+        height: 7rem;
+        margin-left: .5rem;
+        float: left;
+        margin-bottom: 1rem;
+    }
+    .work-head{
+        margin-top: 0px;
+    }
   }
