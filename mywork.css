@@ -86,10 +86,10 @@ margin-bottom: 2rem;}
 .footer{width: 100%;   
     background: rgb(0, 0, 0); 
     background: rgba(0, 0, 0, 0.8);}
-.fab{margin-right: 5em;
+.fab{margin-left: 1em;
     font-size: xx-large;}
     .fas{
-        margin-right: 5em;
+        margin-left: 2em;
     font-size: xx-large;
     }
 .p{margin-top: 3em;}
@@ -129,4 +129,5 @@ margin-bottom: 2rem;}
     .work-head{
         margin-top: 0px;
     }
+   
   }
