@@ -87,6 +87,7 @@ margin-bottom: 2rem;}
     background: rgb(0, 0, 0); 
     background: rgba(0, 0, 0, 0.8);}
 .fab{margin-left: 1em;
+    color: rgb(178, 185, 189);
     font-size: xx-large;}
     .fas{
         margin-left: 2em;
